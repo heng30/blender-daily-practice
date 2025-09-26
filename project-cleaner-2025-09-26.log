@@ -1,0 +1,10 @@
+[INFO] Skipping recently modified project at /home/blue/Code/rust/slint-template-project (last modified: 2025-09-25 22:41:59, cutoff: 2025-09-19 10:25:55)
+[INFO] Cleaning project at /home/blue/Code/rust/flymoon-project (last modified: 2025-09-15 16:42:52)
+[INFO] Successfully cleaned /home/blue/Code/rust/flymoon-project
+
+[INFO] Skipping recently modified project at /home/blue/Code/rust/whispercap (last modified: 2025-09-25 15:55:29, cutoff: 2025-09-19 10:25:56)
+[INFO] Skipping recently modified project at /home/blue/rust-open-src/foo (last modified: 2025-09-25 20:59:38, cutoff: 2025-09-19 10:25:57)
+[INFO] Skipping recently modified project at /home/blue/rust-open-src/pmacro (last modified: 2025-09-22 00:57:18, cutoff: 2025-09-19 10:25:57)
+[INFO] Skipping recently modified project at /home/blue/rust-open-src/nipdf (last modified: 2025-09-22 12:11:35, cutoff: 2025-09-19 10:25:57)
+[INFO] Skipping recently modified project at /home/blue/rust-open-src/splitrail (last modified: 2025-09-23 21:35:52, cutoff: 2025-09-19 10:25:57)
+[INFO] Skipping recently modified project at /home/blue/rust-open-src/cc-switch/src-tauri (last modified: 2025-09-24 11:17:59, cutoff: 2025-09-19 10:25:57)
